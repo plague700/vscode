@@ -5,7 +5,7 @@ https://github.com/tonsky/FiraCode
 
 **Folder/File:**<br>
 cp .config/Code/User/settings.json settings.bkp<br>
-cd .config/Code/User/settings.json
+vim .config/Code/User/settings.json
 
 ## Plugins instalados:
 
