@@ -1,9 +1,9 @@
 ## Configurações do Vscode
 
-Download Fire Code (Font):
+**Download Fire Code (Font):**<br>
 https://github.com/tonsky/FiraCode
 
-Folder/File:
+**Folder/File:**<br>
 cp .config/Code/User/settings.json settings.bkp<br>
 cd .config/Code/User/settings.json
 
