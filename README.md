@@ -14,7 +14,7 @@ vim .config/Code/User/settings.json
 - DotENV
 - Dracula Official
 - EditorConfig for VS Code
-- ESList
+- ESLint
 - Laravel Blade Snippets
 - Live Server
 - Markdown All in One
