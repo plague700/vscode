@@ -4,7 +4,7 @@ Download Fire Code (Font):
 https://github.com/tonsky/FiraCode
 
 Folder/File:
-cp .config/Code/User/settings.json settings.bkp
+cp .config/Code/User/settings.json settings.bkp<br>
 cd .config/Code/User/settings.json
 
 ## Plugins instalados:
