@@ -1,3 +1,5 @@
+## Configurações do Vscode
+
 Download Fire Code (Font):
 https://github.com/tonsky/FiraCode
 
@@ -5,21 +7,22 @@ Folder/File:
 cp .config/Code/User/settings.json settings.bkp
 cd .config/Code/User/settings.json
 
-Plugins instalados:
+## Plugins instalados:
 
-Beautify
-Color Highlight
-DotENV
-Dracula Official
-EditorConfig for VS Code
-ESList
-Laravel Blade Snippets
-Live Server
-Markdown All in One
-Material Icon Theme
+- Beautify
+- Color Highlight
+- DotENV
+- Dracula Official
+- EditorConfig for VS Code
+- ESList
+- Laravel Blade Snippets
+- Live Server
+- Markdown All in One
+- Material Icon Theme
 
-settings.json (conteudo):
+## Conteudo do settings.json:
 
+```
 {
   "terminal.integrated.fontSize": 14,
 
@@ -111,3 +114,4 @@ settings.json (conteudo):
   },
   "workbench.colorTheme": "Dracula Soft"
 }
+```
